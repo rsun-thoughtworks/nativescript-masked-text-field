@@ -6,7 +6,7 @@
         "removeComments": true,
         "declaration": false,
         "experimentalDecorators": true,
-        "target": "es5",
+        "target": "es2017",
         "module": "commonjs",
         "outDir": "bin/dist",
         "lib": ["es6", "dom"],
